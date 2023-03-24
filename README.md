@@ -27,11 +27,10 @@ else {
 cout<<"max= "<<l2.n;
 }
 }
-int main() {
+void main() {
 a l1; b l2;
 l1.input();
 l2.getdata();
 max(l1, l2);
 getch();
-return 0;
 }
