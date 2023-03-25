@@ -1,3 +1,5 @@
+//c++ program to calculate area of triangle using Heron's formula.
+
 using namespace std;
 #include<iostream>
 #include<math.h>
