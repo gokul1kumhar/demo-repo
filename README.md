@@ -1,9 +1,12 @@
 //c++ program to calculate area of triangle using Heron's formula.
 
 using namespace std;
+
 #include<iostream>
+   
 #include<math.h>
 int main() {
+   
    float a, b, c, area, s;
    cout<<"enter the three sides of the triangle: ";
    cin>>a>>b>>c;
