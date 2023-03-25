@@ -3,11 +3,12 @@
 using namespace std;
 
 #include<iostream>
-   
 #include<math.h>
-int main() {
+
+   int main() {
    
    float a, b, c, area, s;
+   
    cout<<"enter the three sides of the triangle: ";
    cin>>a>>b>>c;
 
